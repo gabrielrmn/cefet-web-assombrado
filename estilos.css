@@ -83,6 +83,19 @@ main .boo {
 	transition: all 200ms ease;
 }
 
+main .boo1 {
+	top: 5rem;
+}
+
+main .boo2 {
+	left: 2rem;
+	bottom: 1rem;
+}
+
+main .boo3 {
+	right: 4rem;
+}
+
 main .boo:hover {
 	opacity: 1;
 }
